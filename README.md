@@ -1,2 +1,5 @@
-# Jenkins_Dragon
-Storage all the Jenkins configuration and function code;
+##### Setup Linux development Environment ####
+
+## 1). Setup IDE VIM
+
+
